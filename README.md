@@ -1,10 +1,10 @@
-## CS 241 Data Organization using C
+# CS 241 Data Organization using C
 
-## Linked Lists and Binary Trees
+# Linked Lists and Binary Trees
 
-## Brooke Chenoweth
+### Brooke Chenoweth
 
-## Fall 2021
+### Fall 2021
 
 ```
 This assignment is designed to let you work with linked lists and binary trees.
